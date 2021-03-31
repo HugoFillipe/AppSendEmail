@@ -6,9 +6,9 @@ Esse Projeto foi construido na linguagem PHP, utilizando a bliblioteca PHPMailer
 
 Para executar o projeto, será necessário instalar os seguintes programas:
 
-- [Apache: Necessário para executar o script](https://httpd.apache.org/download.cgi)
-- [XAMPP: Necessário para executar o script](https://www.apachefriends.org/pt_br/download.html)
-- [Netbenas: Necessário para executar o script](https://netbeans.apache.org//kb/docs/php/quickstart_pt_BR.html)
+- [Apache: Necessário para a linguagem PHP](https://httpd.apache.org/download.cgi)
+- [XAMPP: Servidor necessário para rodar a aplicação](https://www.apachefriends.org/pt_br/download.html)
+- [Netbenas: Recomendação de IDE](https://netbeans.apache.org//kb/docs/php/quickstart_pt_BR.html)
 
 ## Desenvolvimento
 
