@@ -23,7 +23,7 @@ O comando irá baixar todas dependências do projeto e criar um diretório. Assi
 
 ## Configuração
 
-A biblioteca PHPMiler que se encontra dentro da arquivo "processo_envio.php" requer um Email + senha para que o processor de host ocorrá, sem esses critérios o processo de envio de e=mail não ocorrerá. 
+A biblioteca PHPMiler que se encontra dentro da arquivo "processo_envio.php" requer um Email + senha para que o processor de host ocorrá, sem esses critérios o processo de envio de e-mail não ocorrerá. 
 
 Para executar o projeto, é necessário utilizar o Xampp para o apache rodar no servidor local e o arquivo "app_send_mail" ficará dentro da pasta "C:\xampp\htdocs" para que assim todos os arquivos estejam alocados dentro do Xampp, podendo assim rodar no Localhost.
 
